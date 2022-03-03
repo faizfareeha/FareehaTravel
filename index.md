@@ -24,7 +24,7 @@
     </h2>
     
 
-    <img src="/joker.jpg" width="500" height="600" alt="joker">
+    <img src="joker.jpg" width="500" height="600" alt="joker">
     <h5>
         Contact: 
         Fareeha 7004648388
